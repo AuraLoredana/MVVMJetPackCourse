@@ -1,0 +1,2 @@
+rootProject.name='MVVMJetPackCourse'
+include ':app'
